@@ -2,8 +2,13 @@
     "ip":[
 
         {
-            "ss_name": "SS_npc_rename",
+            "ss_name": "SS_Remember",
             "id":"110.169.157.120",
+            "ver":"1.0"
+        },          
+        {
+            "ss_name": "SS_Remember",
+            "id":"140.99.96.69",
             "ver":"1.0"
         },          
 
