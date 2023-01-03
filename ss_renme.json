@@ -1,5 +1,11 @@
 {
     "ip":[
+        
+        {
+            "ss_name": "SS_Remember",
+            "id":"103.70.5.243",
+            "ver":"1.0.2"
+        },  
         {
             "ss_name": "SS_Remember",
             "id":"103.167.193.44",
