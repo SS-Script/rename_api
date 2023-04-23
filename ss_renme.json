@@ -2,6 +2,21 @@
     "ip":[
         {
             "ss_name": "SS_Remember",
+            "id":"147.50.229.3",
+            "ver":"1.0.2"
+        }, 
+        {
+            "ss_name": "SS_Remember",
+            "id":"103.91.189.192",
+            "ver":"1.0.2"
+        }, 
+        {
+            "ss_name": "SS_Remember",
+            "id":"147.50.240.120",
+            "ver":"1.0.2"
+        }, 
+        {
+            "ss_name": "SS_Remember",
             "id":"43.229.151.38",
             "ver":"1.0.2"
         }, 
