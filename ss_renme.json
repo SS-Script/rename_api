@@ -326,6 +326,11 @@
             "ver":"1.0.2"
         },
         {
+            "ss_name": "SS_Remember",
+            "id":"89.38.101.17",
+            "ver":"1.0.2"
+        },
+        {
             "MY-SS": "SS",
             "ss_name": "SS_Remember",
             "id":"110.169.157.118",
