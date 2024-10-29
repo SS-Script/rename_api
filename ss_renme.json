@@ -13,6 +13,11 @@
         },
         {
             "ss_name": "SS_Remember",
+            "id":"89.38.101.85",
+            "ver":"1.0.2"
+        },
+        {
+            "ss_name": "SS_Remember",
             "id":"45.154.27.180",
             "ver":"1.0.2"
         },
@@ -44,71 +49,6 @@
         {
             "ss_name": "SS_Remember",
             "id":"27.145.111.175",
-            "ver":"1.0.2"
-        },  
-        {
-            "ss_name": "SS_Remember",
-            "id":"89.38.101.98",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"154.16.66.29",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"103.216.159.68",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"147.50.229.136",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"141.11.158.18",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"89.213.177.175",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"43.229.151.240",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"89.38.101.66",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"212.80.214.15",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"45.154.27.206",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"141.11.158.17",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"1.4.130.28",
-            "ver":"1.0.2"
-        }, 
-        {
-            "ss_name": "SS_Remember",
-            "id":"140.99.97.168",
             "ver":"1.0.2"
         }
     ]
